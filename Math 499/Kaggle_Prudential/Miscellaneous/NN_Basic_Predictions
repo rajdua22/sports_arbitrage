@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug 29 15:36:51 2019
+
+@author: rajdua
+"""
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+train = pd.read_csv('train.csv')
+
